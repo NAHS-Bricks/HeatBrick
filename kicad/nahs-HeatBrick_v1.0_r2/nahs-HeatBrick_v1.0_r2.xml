@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/nijo/workspace/nahs-Bricks-GitHub/HeatBrick/kicad/nahs-HeatBrick_v1.0_r1/nahs-HeatBrick_v1.0_r1.kicad_sch</source>
-    <date>Mo 27 Nov 2023 21:04:01 CET</date>
+    <source>/home/nijo/workspace/nahs-Bricks-GitHub/HeatBrick/kicad/nahs-HeatBrick_v1.0_r2/nahs-HeatBrick_v1.0_r2.kicad_sch</source>
+    <date>Di 28 Nov 2023 07:56:53 CET</date>
     <tool>Eeschema 6.0.10-86aedd382b~118~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>nahs-HeatBrick_v1.0_r1.kicad_sch</source>
+        <source>nahs-HeatBrick_v1.0_r2.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -39,7 +39,7 @@
       <property name="Value" value="100nF"/>
       <property name="Storage" value="MAG4"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8bb1e2be-a1fe-43f5-ac03-8b2c86c45b89</tstamps>
     </comp>
@@ -58,7 +58,7 @@
       <property name="Value" value="100nF"/>
       <property name="Storage" value="MAG4"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f8b26346-9941-4799-8274-7d22e70e82fd</tstamps>
     </comp>
@@ -77,7 +77,7 @@
       <property name="Value" value="100nF"/>
       <property name="Storage" value="MAG4"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4c83b715-b5e1-410e-8305-1b6f1ca415c2</tstamps>
     </comp>
@@ -96,7 +96,7 @@
       <property name="Value" value="100nF"/>
       <property name="Storage" value="MAG4"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>df5bac45-1cc0-4060-af71-d91595776925</tstamps>
     </comp>
@@ -109,7 +109,7 @@
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1372e3a8-a100-4e9c-aa5b-b6736a9a0317</tstamps>
     </comp>
@@ -122,7 +122,7 @@
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>25c99cbc-ec2a-41d2-961d-5e2df8c48fa2</tstamps>
     </comp>
@@ -135,7 +135,7 @@
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d8525ce4-0128-4041-ab8a-e49680a9036b</tstamps>
     </comp>
@@ -156,7 +156,7 @@
       <property name="StorageDesc" value="ESP12-F"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2946e53a-880e-444c-b6f6-7f58087f9b0e</tstamps>
     </comp>
@@ -171,7 +171,7 @@
       <property name="Storage" value="MAG4"/>
       <property name="StorageDesc" value="ATtiny414"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>deb905cd-eb54-4b66-a611-c7008131eb65</tstamps>
     </comp>
@@ -188,7 +188,7 @@
       <property name="Value" value="Brick-Interface-V4"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>33e611ea-006a-4319-8e19-e53e9a662fc6</tstamps>
     </comp>
@@ -205,7 +205,7 @@
       <property name="Storage" value="SB1"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9e0c7b03-a40f-47b8-a7c0-0e50bb3151fd</tstamps>
     </comp>
@@ -222,7 +222,7 @@
       <property name="Storage" value="SB1"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9ea2daa5-f169-41b7-8be1-c489a4170f18</tstamps>
     </comp>
@@ -241,9 +241,9 @@
       <property name="Desc" value="PS"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f33559f7-dbf0-436b-987e-6f763b6852df 6eee5d3c-5ddb-4e02-ba96-6197435dd0af 6a3a2d4f-2bac-4f5c-9a24-2412b71b396d</tstamps>
+      <tstamps>6eee5d3c-5ddb-4e02-ba96-6197435dd0af f33559f7-dbf0-436b-987e-6f763b6852df 6a3a2d4f-2bac-4f5c-9a24-2412b71b396d</tstamps>
     </comp>
     <comp ref="JP2">
       <value>PINHD_1X04</value>
@@ -260,9 +260,9 @@
       <property name="Value" value="PINHD_1X04"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>9a4054e0-cdb2-478e-85f5-be5a6bffd6a4 72c6f4af-e731-490e-9dd2-c1475c7a76a6 6806bbf2-c6cd-4c5f-a8b1-a33e25cf4c75 14341329-53ee-4662-b181-8dbbf047a5a1</tstamps>
+      <tstamps>72c6f4af-e731-490e-9dd2-c1475c7a76a6 6806bbf2-c6cd-4c5f-a8b1-a33e25cf4c75 9a4054e0-cdb2-478e-85f5-be5a6bffd6a4 14341329-53ee-4662-b181-8dbbf047a5a1</tstamps>
     </comp>
     <comp ref="JP3">
       <value>PINHD_1x02</value>
@@ -279,7 +279,7 @@
       <property name="Value" value="PINHD_1x02"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>98a2e34b-d86b-4316-9998-790d0adc66c1 2c7f1f22-8b63-4e3d-bcd2-ef2150710aa0</tstamps>
     </comp>
@@ -294,7 +294,7 @@
       <property name="Desc" value="S2"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d5830f23-8de2-4ef7-8129-8d36bc7eb4e0 49f8ebe4-048c-4cad-9d35-ba159a5b777a</tstamps>
     </comp>
@@ -313,7 +313,7 @@
       <property name="Value" value="PINHD_1X03"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a939f427-8506-43ed-89b3-3b4d93227b2b de8b2d6c-35bb-42fd-8224-b876416f02f5 4c2363d0-6086-4f9e-ae4a-e925968f57e6</tstamps>
     </comp>
@@ -328,7 +328,7 @@
       <property name="Desc" value="S3"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>875b4709-3749-4102-ab78-dfd006de3f36 6b3dc75d-b60b-498d-aae9-26fd0d7e4574</tstamps>
     </comp>
@@ -347,7 +347,7 @@
       <property name="Desc" value="Temp1"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d78f9170-3a79-4fce-a6cf-4f1ca51923b1 b12230ba-f5b2-46e1-8d19-7569c44af0e8 a8799196-0017-4698-9888-d604d0d7bf97</tstamps>
     </comp>
@@ -366,9 +366,9 @@
       <property name="Desc" value="Temp2"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>eaa6cdcc-90f0-44e8-8ac3-c54bb940480b 2f2613a9-509f-48d3-8f35-3d595519620b 2ce25a7d-41b9-40b2-8e2f-f545e4522ce9</tstamps>
+      <tstamps>2f2613a9-509f-48d3-8f35-3d595519620b eaa6cdcc-90f0-44e8-8ac3-c54bb940480b 2ce25a7d-41b9-40b2-8e2f-f545e4522ce9</tstamps>
     </comp>
     <comp ref="JP9">
       <value>PINHD_1X03</value>
@@ -383,9 +383,9 @@
       <property name="Desc" value="Rad-Temp"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c9d625e4-c1bf-4253-b625-38442f58daec d0c5d9f0-4e25-484f-9e52-2b8da27c59ca b7ef4a77-2fe7-4b77-bb8a-fe35576a0873</tstamps>
+      <tstamps>d0c5d9f0-4e25-484f-9e52-2b8da27c59ca c9d625e4-c1bf-4253-b625-38442f58daec b7ef4a77-2fe7-4b77-bb8a-fe35576a0873</tstamps>
     </comp>
     <comp ref="JP10">
       <value>PINHD_1x02</value>
@@ -402,7 +402,7 @@
       <property name="Value" value="PINHD_1x02"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8f02bbf4-816b-41b1-ae64-5b98cd1d8ec5 05461f01-208b-4da0-a737-c7044493434b</tstamps>
     </comp>
@@ -417,7 +417,7 @@
       <property name="Desc" value="L2"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e301f161-cacf-4994-8963-f11d5d0d3b89 b186e133-6cd6-4b3e-873e-81d956637a87</tstamps>
     </comp>
@@ -432,7 +432,7 @@
       <property name="Desc" value="L3"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d449d931-2217-4c70-8c70-f2067becde4c 87ce18f5-a189-4700-af6a-27dc4c9efa51</tstamps>
     </comp>
@@ -447,7 +447,7 @@
       <property name="Desc" value="L4"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c1a50a8e-6484-4f99-bb36-53c80e2fd707 81c5d754-f17d-4df1-8f0b-785015168088</tstamps>
     </comp>
@@ -462,7 +462,7 @@
       <property name="Storage" value="MAG4"/>
       <property name="StorageDesc" value="LED OrangeRed"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1c665d86-e25b-4bdc-bd63-502a6e6c9bf4</tstamps>
     </comp>
@@ -480,7 +480,7 @@
       <property name="DNP" value=""/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7f5c2d5a-9b8a-4d4f-87aa-151dac750fb3</tstamps>
     </comp>
@@ -498,7 +498,7 @@
       <property name="DNP" value=""/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>70fd5536-276c-4748-86eb-0fcc700f192e</tstamps>
     </comp>
@@ -516,7 +516,7 @@
       <property name="Storage" value="SK1 2x4"/>
       <property name="StorageDesc" value="LED 5mm Blue"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b70ef347-f6cf-4dad-9b9c-8d457b06f2dc</tstamps>
     </comp>
@@ -529,7 +529,7 @@
       <libsource lib="no_brick_logo" part="brick_logo" description=""/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>10413436-f23b-4bee-a5d1-0ff3ef3264c9</tstamps>
     </comp>
@@ -542,7 +542,7 @@
       <libsource lib="no_brick_logo" part="brick_logo" description=""/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3eed7295-7dcc-4078-9006-0736ed6fc351</tstamps>
     </comp>
@@ -558,7 +558,7 @@
       <property name="Storage" value="MAG3"/>
       <property name="StorageDesc" value="BSS138"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5afd6f0c-a1f8-47f1-b61b-8b7eefad07fc</tstamps>
     </comp>
@@ -576,7 +576,7 @@
       <property name="StorageDesc" value="BS170"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b37e5e02-7de2-4e47-88ce-57d38e62cbe9</tstamps>
     </comp>
@@ -595,7 +595,7 @@
       <property name="Value" value="3.9k"/>
       <property name="Storage" value="MAG1"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>05c31318-e1d9-4491-82a4-74829f3d6fda</tstamps>
     </comp>
@@ -608,7 +608,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG1"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d77d925a-ad94-430b-a2cd-1d945fe6d9ba</tstamps>
     </comp>
@@ -621,7 +621,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0419d16b-8ba7-452b-bccc-5d684db04530</tstamps>
     </comp>
@@ -634,7 +634,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f6f027c0-638a-4560-95ef-f80ed32f0572</tstamps>
     </comp>
@@ -647,7 +647,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG1"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>149528b2-cae0-43c0-9a3b-db69138b813b</tstamps>
     </comp>
@@ -660,7 +660,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG1"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d8e17f55-8c5a-4bc0-8e00-646694d23af6</tstamps>
     </comp>
@@ -673,7 +673,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5f5bb697-7f1d-4d13-9f13-719b79bbc16d</tstamps>
     </comp>
@@ -692,7 +692,7 @@
       <property name="Value" value="3.9k"/>
       <property name="Storage" value="MAG1"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8258e3c1-0786-4c9d-8de8-dac34be8c732</tstamps>
     </comp>
@@ -705,7 +705,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1b162a51-f19e-4ebc-b294-4849828746d0</tstamps>
     </comp>
@@ -718,7 +718,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a0554a6a-b931-4a1b-919d-c50006a5c125</tstamps>
     </comp>
@@ -731,7 +731,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Storage" value="MAG2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>14fbf2b8-ca79-4bb6-90f0-2869a5654ddf</tstamps>
     </comp>
@@ -746,7 +746,7 @@
       <property name="Storage" value="MAG1"/>
       <property name="StorageDesc" value="0603"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e91be779-2de7-46ff-825d-da88aa6a6855</tstamps>
     </comp>
@@ -761,7 +761,7 @@
       <property name="Storage" value="MAG1"/>
       <property name="StorageDesc" value="0603"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61b2d1c0-aeac-4b3d-bd63-8f6469e95859</tstamps>
     </comp>
@@ -776,7 +776,7 @@
       <property name="Storage" value="MAG1"/>
       <property name="StorageDesc" value="0603"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>93287431-0ba9-4aa2-87f3-495b98fd39a5</tstamps>
     </comp>
@@ -791,43 +791,9 @@
       <property name="Storage" value="MAG1"/>
       <property name="StorageDesc" value="0603"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>66ef1d13-bc0c-406c-94f4-5ba399f2717f</tstamps>
-    </comp>
-    <comp ref="R20">
-      <value>510</value>
-      <footprint>no_common:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="DNP">true</field>
-        <field name="Storage">MAG1</field>
-        <field name="StorageDesc">0603</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Storage" value="MAG1"/>
-      <property name="StorageDesc" value="0603"/>
-      <property name="DNP" value="true"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e948ba3e-02b9-4d85-8e11-cbb4387bf19c</tstamps>
-    </comp>
-    <comp ref="R21">
-      <value>330</value>
-      <footprint>no_common:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="DNP">true</field>
-        <field name="Storage">MAG1</field>
-        <field name="StorageDesc">0603</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Storage" value="MAG1"/>
-      <property name="StorageDesc" value="0603"/>
-      <property name="DNP" value="true"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>65e58e51-eb56-4ce6-a1ae-084b5093af97</tstamps>
     </comp>
     <comp ref="SJ1">
       <value>LED-DIS</value>
@@ -844,7 +810,7 @@
       <property name="Value" value="LED-DIS"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0cd20cf8-9650-4afd-b2cc-7de27926ca2c</tstamps>
     </comp>
@@ -863,7 +829,7 @@
       <property name="Value" value="LED-DIS"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>058bb656-8d17-4ce0-919d-d87d1897dfed</tstamps>
     </comp>
@@ -882,7 +848,7 @@
       <property name="Value" value="LED-DIS"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dbd19e66-0e81-410d-8986-6600e863c3e4</tstamps>
     </comp>
@@ -901,7 +867,7 @@
       <property name="Value" value="LED-DIS"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bd54f9b2-0bf9-4efe-a21c-9ad70a222631</tstamps>
     </comp>
@@ -920,7 +886,7 @@
       <property name="Value" value="LED-DIS"/>
       <property name="DNP" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>540e6cf9-1fde-414d-8703-beea93ba212f</tstamps>
     </comp>
@@ -939,7 +905,7 @@
       <property name="Storage" value="SK1 2x2"/>
       <property name="StorageDesc" value="KMR 231 G LFS"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a89841f7-5296-41bf-b4da-5323a9103218</tstamps>
     </comp>
@@ -954,7 +920,7 @@
       <property name="Storage" value="SK1 2x2"/>
       <property name="StorageDesc" value="SSSS820101"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ed57343b-103e-4c59-96d3-fa2150d10423</tstamps>
     </comp>
@@ -977,7 +943,7 @@
       <property name="StorageDesc" value="DIP Switch 4x"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>09fd56bc-45fe-4e4a-bced-e4bbfa44e3c2</tstamps>
     </comp>
@@ -998,7 +964,7 @@
       <property name="StorageDesc" value="Taster 4545"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fcefa187-7cc5-49fd-b989-478f1c78b325</tstamps>
     </comp>
@@ -1015,7 +981,7 @@
       <property name="StorageDesc" value="Taster 4545"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d5e38038-dfa6-4612-94d8-f3060b027f5e</tstamps>
     </comp>
@@ -1030,7 +996,7 @@
       <property name="Storage" value="MAG3"/>
       <property name="StorageDesc" value="MCP1700"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0323e348-1514-43bf-bbc8-9583126bf5c0</tstamps>
     </comp>
@@ -1047,7 +1013,7 @@
       <property name="StorageDesc" value="LM1086 IT5,0"/>
       <property name="Handsolder" value="true"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r1.kicad_sch"/>
+      <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d18c44b4-abf4-4d82-a8d4-4be7d793eaf5</tstamps>
     </comp>
@@ -1490,7 +1456,6 @@
       <node ref="JP9" pin="1" pintype="input"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
-      <node ref="R21" pin="2" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
@@ -1527,7 +1492,6 @@
       <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
-      <node ref="R20" pin="1" pintype="passive"/>
       <node ref="SW2" pin="1" pintype="input"/>
       <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
     </net>
@@ -1595,7 +1559,6 @@
       <node ref="R13" pin="1" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
       <node ref="R15" pin="1" pintype="passive"/>
-      <node ref="R21" pin="1" pintype="passive"/>
       <node ref="R7" pin="1" pintype="passive"/>
       <node ref="SW1" pin="1" pintype="input"/>
       <node ref="SW1" pin="2" pintype="input"/>
@@ -1644,7 +1607,6 @@
     </net>
     <net code="22" name="Net-(C4-Pad1)">
       <node ref="C4" pin="1" pintype="passive"/>
-      <node ref="R20" pin="2" pintype="passive"/>
       <node ref="SW2" pin="6" pintype="input"/>
       <node ref="U2" pin="2" pinfunction="VO" pintype="input"/>
     </net>
