@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/nijo/workspace/nahs-Bricks-GitHub/HeatBrick/kicad/nahs-HeatBrick_v1.0_r2/nahs-HeatBrick_v1.0_r2.kicad_sch</source>
-    <date>Di 28 Nov 2023 07:56:53 CET</date>
+    <date>Mi 10 Jan 2024 22:15:49 CET</date>
     <tool>Eeschema 6.0.10-86aedd382b~118~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -25,7 +25,7 @@
   </design>
   <components>
     <comp ref="C1">
-      <value>1µF</value>
+      <value>10µF</value>
       <footprint>no_common:C_0805_2012Metric</footprint>
       <fields>
         <field name="Datasheet"/>
@@ -82,19 +82,19 @@
       <tstamps>4c83b715-b5e1-410e-8305-1b6f1ca415c2</tstamps>
     </comp>
     <comp ref="C4">
-      <value>1µF</value>
+      <value>22µF</value>
       <footprint>no_common:C_0805_2012Metric</footprint>
       <fields>
         <field name="Datasheet"/>
         <field name="Reference">C1</field>
-        <field name="Storage">MAG4</field>
+        <field name="Storage">MAGX</field>
         <field name="Value">100nF</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Datasheet" value=""/>
       <property name="Reference" value="C1"/>
       <property name="Value" value="100nF"/>
-      <property name="Storage" value="MAG4"/>
+      <property name="Storage" value="MAGX"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1001,17 +1001,15 @@
       <tstamps>0323e348-1514-43bf-bbc8-9583126bf5c0</tstamps>
     </comp>
     <comp ref="U2">
-      <value>LM1086_IT5,0</value>
-      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <value>PXO7805-500-S</value>
+      <footprint>no_common:PXO7805-500-S</footprint>
       <fields>
-        <field name="Handsolder">true</field>
-        <field name="Storage">SK1 1x4</field>
-        <field name="StorageDesc">LM1086 IT5,0</field>
+        <field name="Storage">SK2 2x2</field>
+        <field name="StorageDesc">PXO7805-500-S</field>
       </fields>
-      <libsource lib="no_common" part="LM1086_IT5,0" description=""/>
-      <property name="Storage" value="SK1 1x4"/>
-      <property name="StorageDesc" value="LM1086 IT5,0"/>
-      <property name="Handsolder" value="true"/>
+      <libsource lib="no_common" part="PXO7805-500-S" description=""/>
+      <property name="Storage" value="SK2 2x2"/>
+      <property name="StorageDesc" value="PXO7805-500-S"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="nahs-HeatBrick_v1.0_r2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1253,21 +1251,6 @@
         <pin num="3" name="D" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="no_common" part="LM1086_IT5,0">
-      <footprints>
-        <fp>Package_TO_SOT_THT:TO-220-3_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">U</field>
-        <field name="Value">LM1086_IT5,0</field>
-        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
-      </fields>
-      <pins>
-        <pin num="1" name="GND" type="input"/>
-        <pin num="2" name="VO" type="input"/>
-        <pin num="3" name="VI" type="input"/>
-      </pins>
-    </libpart>
     <libpart lib="no_common" part="MCP1700-3302">
       <fields>
         <field name="Reference">U</field>
@@ -1278,6 +1261,21 @@
         <pin num="1" name="GND" type="input"/>
         <pin num="2" name="VO" type="input"/>
         <pin num="3" name="VI" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="no_common" part="PXO7805-500-S">
+      <footprints>
+        <fp>Package_TO_SOT_THT:TO-220-3_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PXO7805-500-S</field>
+        <field name="Footprint">no_common:PXO7805-500-S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VO" type="input"/>
       </pins>
     </libpart>
     <libpart lib="no_common" part="SSSS820101">
@@ -1483,7 +1481,7 @@
       <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
-      <node ref="U2" pin="3" pinfunction="VI" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="VI" pintype="input"/>
     </net>
     <net code="5" name="24-">
       <node ref="C1" pin="2" pintype="passive"/>
@@ -1493,7 +1491,7 @@
       <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="SW2" pin="1" pintype="input"/>
-      <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="input"/>
     </net>
     <net code="6" name="A0">
       <node ref="IC1" pin="2" pinfunction="ADC" pintype="input"/>
@@ -1608,7 +1606,7 @@
     <net code="22" name="Net-(C4-Pad1)">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="SW2" pin="6" pintype="input"/>
-      <node ref="U2" pin="2" pinfunction="VO" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="VO" pintype="input"/>
     </net>
     <net code="23" name="Net-(IC1-Pad4)">
       <node ref="IC1" pin="4" pinfunction="D0" pintype="input"/>
